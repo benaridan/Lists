@@ -1,6 +1,6 @@
-### Cyber Security Awesome LIsts
+### Cyber Security Awesome Lists
 
-- [Awesome Security](https://raw.githubusercontent.com/sbilly/awesome-security) - The Main Awesome Cyber Security List of Lists
+- [Awesome Security](https://github.com/sbilly/awesome-security) - The Main Awesome Cyber Security List of Lists
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - Hacking tutorials, tools and resources.
 - [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) - hacking environments where you can train your cyber skills legally and safely.
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - CTF frameworks, libraries, resources and software.
@@ -20,3 +20,15 @@
 - [Awesome Container Security](https://github.com/kai5263499/container-security-awesome) -  resources related to container building and runtime security
 - [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers) - Cryptography papers, articles, tutorials and howtos.
 - [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries) - Interesting, funny, and depressing search queries to plug into Shodan.io.
+- [Awesome Reverse Egineering](https://github.com/wtsxDev/reverse-engineering) - A curated list of awesome reversing resources
+
+
+### Books and Movies
+- [Movies for Hackers](https://github.com/k4m4/movies-for-hackers) - List of movies,tv shows and documentaries
+
+### Technology
+- [Awesome IOT](https://github.com/phodal/awesome-iot) - A curated list of IoT frameworks, apps,libraries, IIOT, etc.
+
+### Cheatsheets
+- [cheatsheets.pdf](https://github.com/qg0/cheatsheets.pdf) - A pretty extensive list of cheatsheets.
+
