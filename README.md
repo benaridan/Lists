@@ -36,3 +36,7 @@
 ### Cheatsheets
 - [cheatsheets.pdf](https://github.com/qg0/cheatsheets.pdf) - A pretty extensive list of cheatsheets.
 - [Awesome Pentest Cheatsheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Cheatsheets useful for pentesting
+
+
+### Blogs
+- [https://pentestlab.blog/](https://pentestlab.blog/) - helps penetration testers to build their own private lab,to develop their skills.
