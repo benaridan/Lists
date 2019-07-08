@@ -1,6 +1,6 @@
 ### Cyber Security Awesome LIsts
 
-
+- [Awesome Security](https://raw.githubusercontent.com/sbilly/awesome-security) - The Main Awesome Cyber Security List of Lists
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - Hacking tutorials, tools and resources.
 - [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) - hacking environments where you can train your cyber skills legally and safely.
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - CTF frameworks, libraries, resources and software.
