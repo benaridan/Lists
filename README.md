@@ -25,8 +25,8 @@
 - [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) - Awesome honeypot list.
 - [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) - Resources, books, hardware, software, applications,about vehicle
 - [Awesome Courses - Security](https://github.com/prakhar1989/awesome-courses#security) - Awesome courses, not just security.
-- [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - list of fuzzing resources Books, courses - free and paid, videos, tools, tutorials and vulnerable applications
-
+- [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - list of fuzzing resources Books, courses - free and paid, videos, tools, tutorials and vuln apps
+- [Awesome CVE POC](https://github.com/qazbnm456/awesome-cve-poc) - Collection of Proof of Concepts of Common Vulnerabilities and Exposures,
 
 ### Books and Movies
 - [Movies for Hackers](https://github.com/k4m4/movies-for-hackers) - List of movies,tv shows and documentaries
@@ -34,7 +34,7 @@
 ### Technology
 - [Awesome IOT](https://github.com/phodal/awesome-iot) - A curated list of IoT frameworks, apps,libraries, IIOT, etc.
 - [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) - All software/computer related list of lists
-- [The Book of Secret Knowlede](https://github.com/trimstray/the-book-of-secret-knowledge) - Aimed for system and Network administrators, DevOps, Pentesters and Security Researchers.
+- [The Book of Secret Knowlede](https://github.com/trimstray/the-book-of-secret-knowledge) - For system and Network admins, DevOps, Pentesters and Security Researchers.
 
 ### Cheatsheets
 - [cheatsheets.pdf](https://github.com/qg0/cheatsheets.pdf) - A pretty extensive list of cheatsheets.
