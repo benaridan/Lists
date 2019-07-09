@@ -25,6 +25,7 @@
 - [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) - Awesome honeypot list.
 - [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) - Resources, books, hardware, software, applications,about vehicle
 - [Awesome Courses - Security](https://github.com/prakhar1989/awesome-courses#security) - Awesome courses, not just security.
+- [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - list of fuzzing resources Books, courses - free and paid, videos, tools, tutorials and vulnerable applications
 
 
 ### Books and Movies
@@ -33,11 +34,12 @@
 ### Technology
 - [Awesome IOT](https://github.com/phodal/awesome-iot) - A curated list of IoT frameworks, apps,libraries, IIOT, etc.
 - [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) - All software/computer related list of lists
+- [The Book of Secret Knowlede](https://github.com/trimstray/the-book-of-secret-knowledge) - Aimed for system and Network administrators, DevOps, Pentesters and Security Researchers.
 
 ### Cheatsheets
 - [cheatsheets.pdf](https://github.com/qg0/cheatsheets.pdf) - A pretty extensive list of cheatsheets.
 - [Awesome Pentest Cheatsheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Cheatsheets useful for pentesting
-
+- [Awesome Cheatsheets](https://github.com/detailyang/awesome-cheatsheet) - Cheatsheets for many things
 
 ### Blogs
 - [https://pentestlab.blog/](https://pentestlab.blog/) - helps penetration testers to build their own private lab,to develop their skills.
