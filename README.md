@@ -42,11 +42,11 @@
 - [Awesome Cheatsheets](https://github.com/detailyang/awesome-cheatsheet) - Cheatsheets for many things
 
 ### Blogs
-- [https://pentestlab.blog/](https://pentestlab.blog/) - helps penetration testers to build their own private lab,to develop their skills.
+- [Pentest Lab](https://pentestlab.blog/](https://pentestlab.blog/) - helps penetration testers to build their own private lab,to develop their skills.
 
 ### Security Checklists
-[Web Dev Security Checklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) - security issues you should consider when creating a web application
-[Security Assessment Checklist](https://github.com/iamthefrogy/Application-Security/blob/master/Web-Security/security-assessment-checklist.md) - List of things to check for clients
-[Docker Secure Deployment](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines) - Docker Security guidlines
-[API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) - important security countermeasures when designing, testing, and releasing your API
-[SaaS Security Checklist](https://www.sqreen.com/checklists/saas-cto-security-checklist) - The SaaS CTO Security Checklist
+- [Web Dev Security Checklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) - security issues you should consider when creating a web application
+- [Security Assessment Checklist](https://github.com/iamthefrogy/Application-Security/blob/master/Web-Security/security-assessment-checklist.md) - List of things to check for clients
+- [Docker Secure Deployment](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines) - Docker Security guidlines
+- [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) - important security countermeasures when designing, testing, and releasing your API
+- [SaaS Security Checklist](https://www.sqreen.com/checklists/saas-cto-security-checklist) - The SaaS CTO Security Checklist
