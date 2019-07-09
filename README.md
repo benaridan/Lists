@@ -50,3 +50,4 @@
 - [Docker Secure Deployment](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines) - Docker Security guidlines
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) - important security countermeasures when designing, testing, and releasing your API
 - [SaaS Security Checklist](https://www.sqreen.com/checklists/saas-cto-security-checklist) - The SaaS CTO Security Checklist
+- [SWAT Checklist](https://software-security.sans.org/resources/swat) - Securing Web Application Technologies (SWAT) Checklist
