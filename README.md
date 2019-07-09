@@ -26,7 +26,7 @@
 - [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) - Resources, books, hardware, software, applications,about vehicle
 - [Awesome Courses - Security](https://github.com/prakhar1989/awesome-courses#security) - Awesome courses, not just security.
 - [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - list of fuzzing resources Books, courses - free and paid, videos, tools, tutorials and vuln apps
-- [Awesome CVE POC](https://github.com/qazbnm456/awesome-cve-poc) - Collection of Proof of Concepts of Common Vulnerabilities and Exposures,
+- [Awesome CVE POC](https://github.com/qazbnm456/awesome-cve-poc) - Collection of Proof of Concepts of Common Vulnerabilities and Exposures
 
 ### Books and Movies
 - [Movies for Hackers](https://github.com/k4m4/movies-for-hackers) - List of movies,tv shows and documentaries
@@ -43,3 +43,10 @@
 
 ### Blogs
 - [https://pentestlab.blog/](https://pentestlab.blog/) - helps penetration testers to build their own private lab,to develop their skills.
+
+### Security Checklists
+[Web Dev Security Checklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) - security issues you should consider when creating a web application
+[Security Assessment Checklist](https://github.com/iamthefrogy/Application-Security/blob/master/Web-Security/security-assessment-checklist.md) - List of things to check for clients
+[Docker Secure Deployment](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines) - Docker Security guidlines
+[API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) - important security countermeasures when designing, testing, and releasing your API
+[SaaS Security Checklist](https://www.sqreen.com/checklists/saas-cto-security-checklist) - The SaaS CTO Security Checklist
