@@ -24,6 +24,7 @@
 - [Awesome Reverse Egineering](https://github.com/wtsxDev/reverse-engineering) - A curated list of awesome reversing resources
 - [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) - Awesome honeypot list.
 - [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) - Resources, books, hardware, software, applications,about vehicle
+- [Awesome Courses - Security](https://github.com/prakhar1989/awesome-courses#security) - Awesome courses, not just security.
 
 
 ### Books and Movies
