@@ -51,3 +51,4 @@
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) - important security countermeasures when designing, testing, and releasing your API
 - [SaaS Security Checklist](https://www.sqreen.com/checklists/saas-cto-security-checklist) - The SaaS CTO Security Checklist
 - [SWAT Checklist](https://software-security.sans.org/resources/swat) - Securing Web Application Technologies (SWAT) Checklist
+- [Privesc Checklist](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md) - PentestLab Priviedge Escelation Articles
