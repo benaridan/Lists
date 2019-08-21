@@ -27,6 +27,7 @@
 - [Awesome Courses - Security](https://github.com/prakhar1989/awesome-courses#security) - Awesome courses, not just security.
 - [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - list of fuzzing resources Books, courses - free and paid, videos, tools, tutorials and vuln apps
 - [Awesome CVE POC](https://github.com/qazbnm456/awesome-cve-poc) - Collection of Proof of Concepts of Common Vulnerabilities and Exposures
+- [Awesome Mainframe Hacking](https://github.com/samanL33T/Awesome-Mainframe-Hacking) Mainframe Hacking/Pentesting Resources
 
 ### Books and Movies
 - [Movies for Hackers](https://github.com/k4m4/movies-for-hackers) - List of movies,tv shows and documentaries
@@ -51,3 +52,4 @@
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) - important security countermeasures when designing, testing, and releasing your API
 - [SaaS Security Checklist](https://www.sqreen.com/checklists/saas-cto-security-checklist) - The SaaS CTO Security Checklist
 - [SWAT Checklist](https://software-security.sans.org/resources/swat) - Securing Web Application Technologies (SWAT) Checklist
+- [PentestLab Checklists](https://github.com/netbiosX/Checklists) - Pentest checklists and links to their respective Pentestlab articles
