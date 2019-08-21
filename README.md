@@ -16,7 +16,7 @@
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - Threat intelligence resources.
 - [Awesome Threat Modeling](https://github.com/redshiftzero/awesome-threat-modeling) - A curated list of Threat Modeling resources.
 - [Awesome Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
-- [Awesome Industrial Control System Security](https://github.com/mpesen/awesome-industrial-control-system-security) - Resources related to Industrial Control System (ICS) security.
+- [Awesome Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security) - Resources related to Industrial Control System (ICS) security.
 - [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) -  Threat detection and hunting resources.
 - [Awesome Container Security](https://github.com/kai5263499/container-security-awesome) -  resources related to container building and runtime security
 - [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers) - Cryptography papers, articles, tutorials and howtos.
