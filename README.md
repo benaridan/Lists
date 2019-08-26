@@ -38,6 +38,7 @@
 - [The Book of Secret Knowlede](https://github.com/trimstray/the-book-of-secret-knowledge) - For system and Network admins, DevOps, Pentesters and Security Researchers.
 
 ### Cheatsheets
+- [OWASP's Cheatsheet](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets) - Contains all the cheat sheets of the OWASP Cheatsheet series project 
 - [cheatsheets.pdf](https://github.com/qg0/cheatsheets.pdf) - A pretty extensive list of cheatsheets.
 - [Awesome Pentest Cheatsheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Cheatsheets useful for pentesting
 - [Awesome Cheatsheets](https://github.com/detailyang/awesome-cheatsheet) - Cheatsheets for many things
