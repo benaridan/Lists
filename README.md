@@ -28,6 +28,7 @@
 - [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - list of fuzzing resources Books, courses - free and paid, videos, tools, tutorials and vuln apps
 - [Awesome CVE POC](https://github.com/qazbnm456/awesome-cve-poc) - Collection of Proof of Concepts of Common Vulnerabilities and Exposures
 - [Awesome Mainframe Hacking](https://github.com/samanL33T/Awesome-Mainframe-Hacking) Mainframe Hacking/Pentesting Resources
+- [Awesome AWS Security](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - Not really an "Awesome list" but still an awesome offensive and defensive AWS security list
 
 ### Books and Movies
 - [Movies for Hackers](https://github.com/k4m4/movies-for-hackers) - List of movies,tv shows and documentaries
